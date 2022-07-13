@@ -1,0 +1,34 @@
+a {
+    color:green;
+    font-size: 140%;
+}  
+
+div {
+    color: #e08cf5;
+}
+
+#moya_ssilka {
+    color:brown;
+}
+
+.human {
+    color:red
+}
+
+.animal {
+    color: orange;
+}
+
+.lion {
+     color: orange;
+}
+
+.monkey {
+    color: brown;
+}
+
+.turtle {
+    color: #1f822c;
+    background-color: #79ff8b;
+    border: 1px solid #062209;
+}
